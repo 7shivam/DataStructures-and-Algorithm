@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601195365 source:c:\users\shivam\desktop\ds\datastructures-and-algorithm\recursion\static_variable\main.c
+	<stdio.h>
+	<stdlib.h>
+

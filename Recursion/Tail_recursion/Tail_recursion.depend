@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601193881 source:c:\users\shivam\desktop\sunbeam hw\sunbeam-edac-sep-2020-assignements\tail_recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1601194049 source:c:\users\shivam\desktop\ds\datastructures-and-algorithm\recursion\tail_recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
